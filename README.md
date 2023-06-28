@@ -29,7 +29,7 @@ Plus de détails ici: https://workadventu.re/map-building/
 * *map.tmj*: La carte elle-même, au fomat "Tiled Map JSON"
 * *map.png*: Une preview de la carte
 
-## Licenses
+## Licenses 
 
 Ce projet contient plusieurs licenses:
 
