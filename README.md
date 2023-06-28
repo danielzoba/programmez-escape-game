@@ -4,7 +4,7 @@
 
 Ce repository contient le code associé à l'article "Programmez votre escape game!" publié dans le magazine Programmez!
 
-## Installation
+## Installation 
 
 Pour installer le projet, vous devez avoir Node.js version >=16 installé sur votre machine.
 
