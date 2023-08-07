@@ -37,3 +37,12 @@ Ce projet contient plusieurs licenses:
 * [Map license](./LICENSE.map) *(`map.tmj` et `map.png`)*
 * [Assets license](./LICENSE.assets) *(les fichiers dans le répertoire `tilesets/`)*
 
+# Notes
+
+- install nodejs 16 like this:
+    * curl -sL https://deb.nodesource.com/setup_16.x | sudo bash -
+    * apt install nodejs
+- run "npm install", then "npm run dev"
+- any workadventure instance works, not just the official one!
+- to start vite with an external accessible link, use "vite --host" (check package.json)
+
